@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Form Authentication
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.702 s <<< FAILURE! - in Form Authentication
+Validate Authentication of User(Form Authentication)  Time elapsed: 32.702 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<[fail]> but was:<[pass]>
+
